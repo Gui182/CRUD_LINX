@@ -2,7 +2,7 @@
 
 #Requisitos para aplicação
 
-Node versão LTS
+-Node versão LTS
 
 #BackEnd
 
