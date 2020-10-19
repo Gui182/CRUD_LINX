@@ -1,5 +1,9 @@
 # CRUD_LINX
 
+#Requisitos para aplicação
+
+Node versão LTS
+
 #BackEnd
 
 Na pasta raiz backend executar via terminal npm install pois o node_modules foi colocado no arquivo gitignore para melhor performance no clone do repositorio, em seguida executar o comando npm start para inicio do servidor JSON que irá servir o front end e a API de dados.
