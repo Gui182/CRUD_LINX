@@ -1,0 +1,16 @@
+.table {
+    font-size: 11.8px;
+}
+
+.tabeldata{
+    font-size: 12px;
+}
+
+.SalvarCancelar{
+    height: 80px;
+    width: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
